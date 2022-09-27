@@ -1,17 +1,31 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "camax",
+        "name": "Camax",
+        "slug": "camax",
+        "productCategory": "Camax",
+        "localThumb": "/assets/images/hersteller/camax.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "prophete",
+        "name": "Prophete",
+        "slug": "prophete",
+        "productCategory": "Prophete",
+        "localThumb": "/assets/images/hersteller/prophete.webp"
+    },
+    {
+        "key": "fischer fahrrad",
+        "name": "Fischer Fahrrad",
+        "slug": "fischer-fahrrad",
+        "productCategory": "Fischer Fahrrad",
+        "localThumb": "/assets/images/hersteller/fischer-fahrrad.webp"
+    },
+    {
+        "key": "fischer",
+        "name": "Fischer",
+        "slug": "fischer",
+        "productCategory": "Fischer",
+        "localThumb": "/assets/images/hersteller/fischer.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +35,17 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
-    },
-    {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
-    },
-    {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "selle-royal",
+        "name": "Selle-Royal",
+        "slug": "selle-royal",
+        "productCategory": "Selle-Royal",
+        "localThumb": "/assets/images/hersteller/selle-royal.webp"
     }
 ]
