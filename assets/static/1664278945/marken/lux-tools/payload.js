@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/lux-tools", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-fahrradhalter-30-kg-lux-tools-4147906-1.jpg":"\u002Fassets\u002Fimages\u002Flux-fahrradhalter-30-kg-lux-tools-4147906-1.webp"}}],fetch:{},mutations:void 0});
