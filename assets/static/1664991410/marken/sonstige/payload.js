@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sonstige", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/cmi-powerstation-mit-kompressor-sonstige-6271209-1.jpg":"\u002Fassets\u002Fimages\u002Fcmi-powerstation-mit-kompressor-sonstige-6271209-1.webp"}}],fetch:{},mutations:void 0});
