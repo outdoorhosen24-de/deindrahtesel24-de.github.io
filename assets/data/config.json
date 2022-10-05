@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "deindrahtesel24.de",
+    "hostname": "https://www.deindrahtesel24.de/",
+    "email": "deindrahtesel24.desurrealnetworks.io",
+    "organization": "deindrahtesel24.de",
+    "logoText": "Deindrahtesel24.de",
+    "title": "Fahrr\u00e4der",
+    "subline": "Der Online Shop f\u00fcr Fahrr\u00e4der",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7434855",
+        "1438704",
+        "9603812",
+        "2337863",
+        "2402717",
+        "7434855"
+    ],
+    "winnerProducts": [
+        "9604380",
+        "2337863",
+        "9601196"
+    ],
+    "featuredCategories": [
+        "Kinder-R\u00e4der",
+        "Trekking-R\u00e4der",
+        "Fahrrad-Beleuchtung",
+        "Lenkerzubeh\u00f6r & Klingeln",
+        "Lenkerzubeh\u00f6r & Klingeln",
+        "Reparatur & Ersatzteile"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fahrr\u00e4der",
-        "featureText": "Your featured text goes here",
+        "featureText": "Fahrr\u00e4der sind unsere Leidenschaft. Wir f\u00fchren einzigartige Fahrr\u00e4der, die mit hochwertigen Komponenten ausgestattet sind. Unsere Experten beraten Sie gerne, damit Sie das perfekte Rad f\u00fcr Ihre Bed\u00fcrfnisse finden.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Fahrr\u00e4der - Die besten Fahrr\u00e4der in einem Shop!",
+            "metaDescription": "Fahrr\u00e4der f\u00fcr jeden Geschmack und jeden Anlass. Vom City-Bike bis zum Mountainbike.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Fahrr\u00e4der: Eine kurze Geschichte",
+                    "text": "Fahrr\u00e4der sind ein beliebtes Fortbewegungsmittel in Deutschland. Viele Menschen nutzen sie f\u00fcr den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spa\u00df. Fahrr\u00e4der sind nicht nur umweltfreundlich, sondern auch gesundheitlich sehr vorteilhaft.\n\nDie Geschichte der Fahrrad begann im 19. Jahrhundert in Deutschland. Die ersten Fahrr\u00e4der waren noch sehr primitiv und wurden von den Menschen vor allem f\u00fcr die Fortbewegung auf dem Land genutzt. Im Laufe der Zeit wurden die Fahrr\u00e4der immer weiter verbessert und auch in der Stadt immer beliebter. Heute gibt es verschiedene Arten von Fahrr\u00e4dern f\u00fcr verschiedene Zwecke.\n\nFahrr\u00e4der sind in Deutschland sehr beliebt. Viele Menschen nutzen sie f\u00fcr den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spa\u00df. Fahrr\u00e4der sind nicht nur umweltfreundlich, sondern auch gesundheitlich sehr vorteilhaft.\n\nDie Geschichte der Fahrrad begann im 19. Jahrhundert in Deutschland. Die ersten Fahrr\u00e4der waren noch sehr primitiv und wurden von den Menschen vor allem f\u00fcr die Fortbewegung auf dem Land genutzt. Im Laufe der Zeit wurden die Fahrr\u00e4der immer weiter verbessert und auch in der Stadt immer beliebter. Heute gibt es verschiedene Arten von Fahrr\u00e4dern f\u00fcr verschiedene Zwecke.\n\nFahrr\u00e4der sind in Deutschland sehr beliebt. Viele Menschen nutzen sie f\u00fcr den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spa\u00df. Fah"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fahrrad-Shop: Alles f\u00fcr dein Rad!",
+            "metaDescription": "Fahrr\u00e4der-Shop - Hier findest du alles rund um das Thema Fahrrad!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fahrr\u00e4der Hersteller",
+            "metaDescription": "Fahrr\u00e4der-Hersteller: Finden Sie die besten Fahrrad-Hersteller und -H\u00e4ndler auf fahrrad-manufacturer.de. Vergleichen Sie Angebote und Preise und kaufen Sie Ihr neues Fahrrad!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Fahrr\u00e4der $PRODUKT - die besten Radsport-Produkte!",
+        "defaultMetaDescription": "Fahrr\u00e4der von $HERSTELLER f\u00fcr $KATEGORIE. Finde das passende Rad f\u00fcr dich! $PRODUKT",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Fahrr\u00e4der $KATEGORIE \u2013 die besten Modelle!",
+        "defaultMetaDescription": "Fahrr\u00e4der in $KATEGORIE - Finde die besten Fahrr\u00e4der f\u00fcr deine Bed\u00fcrfnisse. Wir haben die besten Angebote f\u00fcr dich!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Fahrr\u00e4der von $HERSTELLER - die beste Auswahl an Fahrr\u00e4dern f\u00fcr jeden Bedarf. Ob f\u00fcr die Stadt, das Gel\u00e4nde oder den sportlichen Einsatz, wir haben das passende Rad!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Fahrr\u00e4der",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Fahrr\u00e4der Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Fahrr\u00e4der Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
