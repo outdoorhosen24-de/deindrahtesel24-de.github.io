@@ -51,12 +51,15 @@
             "title": "Fahrräder - Die besten Fahrräder in einem Shop!",
             "metaDescription": "Fahrräder für jeden Geschmack und jeden Anlass. Vom City-Bike bis zum Mountainbike.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Fahrräder: Eine kurze Geschichte",
-                    "text": "Fahrräder sind ein beliebtes Fortbewegungsmittel in Deutschland. Viele Menschen nutzen sie für den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spaß. Fahrräder sind nicht nur umweltfreundlich, sondern auch gesundheitlich sehr vorteilhaft.\n\nDie Geschichte der Fahrrad begann im 19. Jahrhundert in Deutschland. Die ersten Fahrräder waren noch sehr primitiv und wurden von den Menschen vor allem für die Fortbewegung auf dem Land genutzt. Im Laufe der Zeit wurden die Fahrräder immer weiter verbessert und auch in der Stadt immer beliebter. Heute gibt es verschiedene Arten von Fahrrädern für verschiedene Zwecke.\n\nFahrräder sind in Deutschland sehr beliebt. Viele Menschen nutzen sie für den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spaß. Fahrräder sind nicht nur umweltfreundlich, sondern auch gesundheitlich sehr vorteilhaft.\n\nDie Geschichte der Fahrrad begann im 19. Jahrhundert in Deutschland. Die ersten Fahrräder waren noch sehr primitiv und wurden von den Menschen vor allem für die Fortbewegung auf dem Land genutzt. Im Laufe der Zeit wurden die Fahrräder immer weiter verbessert und auch in der Stadt immer beliebter. Heute gibt es verschiedene Arten von Fahrrädern für verschiedene Zwecke.\n\nFahrräder sind in Deutschland sehr beliebt. Viele Menschen nutzen sie für den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spaß. Fah"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Fahrräder: Eine kurze Geschichte",
+                        "text": "Fahrräder sind ein beliebtes Fortbewegungsmittel in Deutschland. Viele Menschen nutzen sie für den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spaß. Fahrräder sind nicht nur umweltfreundlich, sondern auch gesundheitlich sehr vorteilhaft.\n\nDie Geschichte der Fahrrad begann im 19. Jahrhundert in Deutschland. Die ersten Fahrräder waren noch sehr primitiv und wurden von den Menschen vor allem für die Fortbewegung auf dem Land genutzt. Im Laufe der Zeit wurden die Fahrräder immer weiter verbessert und auch in der Stadt immer beliebter. Heute gibt es verschiedene Arten von Fahrrädern für verschiedene Zwecke.\n\nFahrräder sind in Deutschland sehr beliebt. Viele Menschen nutzen sie für den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spaß. Fahrräder sind nicht nur umweltfreundlich, sondern auch gesundheitlich sehr vorteilhaft.\n\nDie Geschichte der Fahrrad begann im 19. Jahrhundert in Deutschland. Die ersten Fahrräder waren noch sehr primitiv und wurden von den Menschen vor allem für die Fortbewegung auf dem Land genutzt. Im Laufe der Zeit wurden die Fahrräder immer weiter verbessert und auch in der Stadt immer beliebter. Heute gibt es verschiedene Arten von Fahrrädern für verschiedene Zwecke.\n\nFahrräder sind in Deutschland sehr beliebt. Viele Menschen nutzen sie für den Weg zur Arbeit, zum Einkaufen oder einfach nur zum Spaß. Fah"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Fahrrad-Shop: Alles für dein Rad!",
