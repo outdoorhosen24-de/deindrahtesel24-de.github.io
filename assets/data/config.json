@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "deindrahtesel24.de",
     "hostname": "https://www.deindrahtesel24.de/",
     "email": "deindrahtesel24.de@surrealnetworks.io",
     "organization": "deindrahtesel24.de",
     "logoText": "Deindrahtesel24.de",
-    "title": "Fahrräder",
-    "subline": "Der Online Shop für Fahrräder",
+    "title": "Fahrrad Shop",
+    "subline": "Der Online Shop für Fahrräder & Zubehör",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fahrräder",
-        "featureText": "Fahrräder sind unsere Leidenschaft. Wir führen einzigartige Fahrräder, die mit hochwertigen Komponenten ausgestattet sind. Unsere Experten beraten Sie gerne, damit Sie das perfekte Rad für Ihre Bedürfnisse finden.",
+        "featureText": "In unserem Shop finden Sie neben hochwertige Fahrrädern bekannter Marken wie z.B. Fischer, Camax etc. auch umfangreiches Zubehör, das von Anbauteilen über Reparaturteilen bis zu Ersatzteilen reicht. Unsere Produkte sind in entsprechenden Kategorien dargestellt. Klicken Sie sich einfach durch unseren Shop!",
         "index": {
-            "title": "Fahrräder - Die besten Fahrräder in einem Shop!",
-            "metaDescription": "Fahrräder für jeden Geschmack und jeden Anlass. Vom City-Bike bis zum Mountainbike.",
+            "title": "Fahrräder - Markenfahrräder zum Bestpreis",
+            "metaDescription": "Unser Fahrrad-Angebot reicht von City- über Trekking- bis zu E-Bikes. Zudem bieten wir eine große Auswahl an Ersatz- und Reparaturteilen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Fahrrad-Shop: Alles für dein Rad!",
-            "metaDescription": "Fahrräder-Shop - Hier findest du alles rund um das Thema Fahrrad!",
+            "title": "Fahrrad Online Shop - schnelle Lieferung von Markenprodukten",
+            "metaDescription": "Eine riesige Auswahl an Fahrrädern & Zubehör zum Bestpreis. Einfach online bestellen - per Mausklick zu Ihnen nach Hause.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Fahrräder Hersteller",
-            "metaDescription": "Fahrräder-Hersteller: Finden Sie die besten Fahrrad-Hersteller und -Händler auf fahrrad-manufacturer.de. Vergleichen Sie Angebote und Preise und kaufen Sie Ihr neues Fahrrad!",
+            "title": "Fahrräder etablierter Marken",
+            "metaDescription": "Unsere angebotenen Fahrräder sind Markenprodukte. Dabei achten wir darauf, dass ausschließlich hochwertige Anbauteile verbaut werden.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Fahrräder $PRODUKT - die besten Radsport-Produkte!",
-        "defaultMetaDescription": "Fahrräder von $HERSTELLER für $KATEGORIE. Finde das passende Rad für dich! $PRODUKT",
+        "defaultTitle": "$PRODUKT | Fahrrad Shop",
+        "defaultMetaDescription": "Riesige Auswahl an Fahrrädern wie $PRODUKT verschiedener Hersteller wie $HERSTELLER in mehreren Kategorien wie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Fahrräder $KATEGORIE – die besten Modelle!",
-        "defaultMetaDescription": "Fahrräder in $KATEGORIE - Finde die besten Fahrräder für deine Bedürfnisse. Wir haben die besten Angebote für dich!",
+        "defaultTitle": "$KATEGORIE | Fahrrad Shop",
+        "defaultMetaDescription": "Fahrräder & Zubehör in $KATEGORIE - Finden Sie das passende Fahrrad oder Anbau- und Ersatzteil für Ihre individuellen Bedürfnisse! ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Fahrräder von $HERSTELLER - die beste Auswahl an Fahrrädern für jeden Bedarf. Ob für die Stadt, das Gelände oder den sportlichen Einsatz, wir haben das passende Rad!",
+        "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
+        "defaultMetaDescription": "Fahrräder & Zubehör von $HERSTELLER - die beste Auswahl an Fahrrädern und Anbauteilen mit langlebiger Qualität für jeden Bedarf.",
         "defaultRobots": "index, follow",
         "brands": [
             {
