@@ -2,14 +2,14 @@
     {
         "key": "city-räder",
         "name": "City-Räder",
-        "slug": "city-rader",
+        "slug": "city-raeder",
         "productCategory": "City-Räder",
         "subCategories": []
     },
     {
         "key": "trekking-räder",
         "name": "Trekking-Räder",
-        "slug": "trekking-rader",
+        "slug": "trekking-raeder",
         "productCategory": "Trekking-Räder",
         "subCategories": []
     },
@@ -23,21 +23,21 @@
     {
         "key": "kinder-räder",
         "name": "Kinder-Räder",
-        "slug": "kinder-rader",
+        "slug": "kinder-raeder",
         "productCategory": "Kinder-Räder",
         "subCategories": []
     },
     {
         "key": "fahrrad-zubehör",
         "name": "Fahrrad-Zubehör",
-        "slug": "fahrrad-zubehor",
+        "slug": "fahrrad-zubehoer",
         "productCategory": "Fahrrad-Zubehör",
         "subCategories": []
     },
     {
         "key": "fahrradständer",
         "name": "Fahrradständer",
-        "slug": "fahrradstander",
+        "slug": "fahrradstaender",
         "productCategory": "Fahrradständer",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "lenkerzubehör & klingeln",
         "name": "Lenkerzubehör & Klingeln",
-        "slug": "lenkerzubehor-klingeln",
+        "slug": "lenkerzubehoer-klingeln",
         "productCategory": "Lenkerzubehör & Klingeln",
         "subCategories": []
     },
@@ -72,7 +72,7 @@
     {
         "key": "fahrradsättel",
         "name": "Fahrradsättel",
-        "slug": "fahrradsattel",
+        "slug": "fahrradsaettel",
         "productCategory": "Fahrradsättel",
         "subCategories": []
     }
