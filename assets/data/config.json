@@ -1,208 +1,211 @@
 {
-    "configIsReady": true,
-    "domain": "deindrahtesel24.de",
-    "hostname": "https://www.deindrahtesel24.de/",
-    "email": "deindrahtesel24.de@surrealnetworks.io",
-    "organization": "deindrahtesel24.de",
-    "logoText": "Deindrahtesel24.de",
-    "title": "Fahrrad Shop",
-    "subline": "Der Online Shop für Fahrräder & Zubehör",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7434855",
-        "1438704",
-        "9603812",
-        "2337863",
-        "2402717",
-        "7434855"
-    ],
-    "winnerProducts": [
-        "9604380",
-        "2337863",
-        "9601196"
-    ],
-    "featuredCategories": [
-        "Kinder-Räder",
-        "Trekking-Räder",
-        "Fahrrad-Beleuchtung",
-        "Lenkerzubehör & Klingeln",
-        "Lenkerzubehör & Klingeln",
-        "Reparatur & Ersatzteile"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Fahrräder",
-        "featureText": "In unserem Shop finden Sie neben hochwertige Fahrrädern bekannter Marken wie z.B. Fischer, Camax etc. auch umfangreiches Zubehör, das von Anbauteilen über Reparaturteilen bis zu Ersatzteilen reicht. Unsere Produkte sind in entsprechenden Kategorien dargestellt. Klicken Sie sich einfach durch unseren Shop!",
-        "index": {
-            "title": "Fahrräder - Markenfahrräder zum Bestpreis",
-            "metaDescription": "Unser Fahrrad-Angebot reicht von City- über Trekking- bis zu E-Bikes. Zudem bieten wir eine große Auswahl an Ersatz- und Reparaturteilen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Dein Drahtesel 24!",
-                        "text": "Herzlich willkommen bei Dein Drahtesel 24, Ihrem Online-Shop für Fahrräder und Zubehör. Wir bieten Ihnen eine große Auswahl an Fahrrädern, von City-Rädern über Trekking-Räder und E-Bikes bis hin zu Kinder-Rädern. Unser Sortiment umfasst auch eine Vielzahl von Fahrrad-Zubehör, wie Fahrradständer, Reparatur- und Ersatzteile, Fahrrad-Beleuchtung, Lenkerzubehör und Klingeln, Fahrradreifen und Fahrradsättel.Wir sind stolz darauf, Ihnen eine einfache und bequeme Möglichkeit zu bieten, alles zu finden, was Sie für Ihr Fahrrad benötigen. Unser Online-Shop ist benutzerfreundlich und bietet Ihnen eine schnelle und einfache Navigation durch unsere Kategorien. Wir haben sorgfältig ausgewählte Produkte, um sicherzustellen, dass Sie das beste Preis-Leistungs-Verhältnis erhalten.Wir verstehen, dass Ihr Fahrrad für Sie von großer Bedeutung ist, deshalb legen wir großen Wert auf Qualität und Zuverlässigkeit. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verfügung, um Ihnen bei allen Fragen und Anliegen zu helfen.Schauen Sie sich in Ruhe um und entdecken Sie unsere große Auswahl an Fahrrädern und Zubehör. Wir sind sicher, dass Sie das finden werden, was Sie suchen. Vielen Dank für Ihren Besuch bei Dein Drahtesel 24. Wir freuen uns darauf, Ihnen zu helfen, Ihr Fahrrad-Erlebnis zu verbessern."
-                    },
-                    {
-                        "title": "City-Räder",
-                        "text": "Entdecken Sie die Vielfalt an hochwertigen <a href=\"/kategorie/city-raeder/\" title=\"City-Räder\">City-Räder</a>n bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das passende Fahrrad. Von klassisch bis modern, wir haben für jeden Geschmack das richtige Rad. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer City-Räder."
-                    },
-                    {
-                        "title": "Trekking-Räder",
-                        "text": "Erleben Sie das Abenteuer mit unseren <a href=\"/kategorie/trekking-raeder/\" title=\"Trekking-Räder\">Trekking-Räder</a>n bei deindrahtesel24.de. Unsere Räder sind perfekt für längere Touren geeignet und bieten höchsten Komfort auf jedem Terrain. Entdecken Sie die Vielfalt an Farben und Designs und finden Sie das perfekte Trekking-Rad für Ihre nächste Tour."
-                    },
-                    {
-                        "title": "E-Bikes",
-                        "text": "Erleben Sie das unbeschwerte Radfahren mit unseren <a href=\"/kategorie/e-bikes/\" title=\"E-Bikes\">E-Bikes</a> bei deindrahtesel24.de. Unsere E-Bikes bieten Ihnen Unterstützung beim Treten und ermöglichen Ihnen so, längere Strecken ohne große Anstrengung zurückzulegen. Entdecken Sie die Vielfalt an Modellen und finden Sie das perfekte E-Bike für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Kinder-Räder",
-                        "text": "Erleben Sie die Freude des Radfahrens mit den hochwertigen <a href=\"/kategorie/kinder-raeder/\" title=\"Kinder-Räder\">Kinder-Räder</a>n bei deindrahtesel24.de. Unsere Auswahl an Kinder-Rädern bietet für jedes Alter das richtige Rad. Von farbenfroh bis robust, wir haben für jeden Bedarf das passende Kinder-Rad. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer Kinder-Räder."
-                    },
-                    {
-                        "title": "Fahrrad-Zubehör",
-                        "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen <a href=\"/kategorie/fahrrad-zubehoer/\" title=\"Fahrrad-Zubehör\">Fahrrad-Zubehör</a> bei deindrahtesel24.de. Unsere Auswahl an Fahrrad-Zubehör bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Zubehör. Überzeugen Sie sich selbst von der Vielfalt und Qualität unseres Fahrrad-Zubehörs."
-                    },
-                    {
-                        "title": "Fahrradständer",
-                        "text": "Sichern Sie Ihr Fahrrad mit den stabilen <a href=\"/kategorie/fahrradstaender/\" title=\"Fahrradständer\">Fahrradständer</a>n bei deindrahtesel24.de. Unsere Auswahl an Fahrradständern bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stilvoll, wir haben für jeden Geschmack den passenden Fahrradständer. Überzeugen Sie sich selbst von der Stabilität und Qualität unserer Fahrradständer."
-                    },
-                    {
-                        "title": "Reparatur & Ersatzteile",
-                        "text": "Halten Sie Ihr Fahrrad in Top-Zustand mit den hochwertigen Reparatur- und Ersatzteilen bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis professionell, wir haben für jeden Anspruch das passende Ersatzteil. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer Reparatur- und Ersatzteile."
-                    },
-                    {
-                        "title": "Fahrrad-Beleuchtung",
-                        "text": "Sichern Sie sich eine gute Sichtbarkeit im Straßenverkehr mit der hochwertigen <a href=\"/kategorie/fahrrad-beleuchtung/\" title=\"Fahrrad-Beleuchtung\">Fahrrad-Beleuchtung</a> bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Licht. Überzeugen Sie sich selbst von der Leistung und Qualität unserer Fahrrad-Beleuchtung."
-                    },
-                    {
-                        "title": "Lenkerzubehör & Klingeln",
-                        "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen Lenkerzubehör und Klingeln bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Zubehör. Überzeugen Sie sich selbst von der Vielfalt und Qualität unseres Lenkerzubehörs und Klingeln."
-                    },
-                    {
-                        "title": "Fahrradreifen",
-                        "text": "Verleihen Sie Ihrem Fahrrad den richtigen Grip mit den hochwertigen <a href=\"/kategorie/fahrradreifen/\" title=\"Fahrradreifen\">Fahrradreifen</a> bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Profil. Überzeugen Sie sich selbst von der Leistung und Qualität unserer Fahrradreifen."
-                    },
-                    {
-                        "title": "Fahrradsättel",
-                        "text": "Erleben Sie höchsten Komfort auf Ihren Fahrradtouren mit den hochwertigen <a href=\"/kategorie/fahrradsaettel/\" title=\"Fahrradsättel\">Fahrradsättel</a>n bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Modell. Überzeugen Sie sich selbst von der Bequemlichkeit und Qualität unserer Fahrradsättel."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Fahrrad Online Shop - schnelle Lieferung von Markenprodukten",
-            "metaDescription": "Eine riesige Auswahl an Fahrrädern & Zubehör zum Bestpreis. Einfach online bestellen - per Mausklick zu Ihnen nach Hause.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Fahrräder etablierter Marken",
-            "metaDescription": "Unsere angebotenen Fahrräder sind Markenprodukte. Dabei achten wir darauf, dass ausschließlich hochwertige Anbauteile verbaut werden.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Fahrrad Shop",
-        "defaultMetaDescription": "Riesige Auswahl an Fahrrädern wie $PRODUKT verschiedener Hersteller wie $HERSTELLER in mehreren Kategorien wie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "deindrahtesel24.de",
+  "hostname": "https://www.deindrahtesel24.de/",
+  "email": "deindrahtesel24.de@surrealnetworks.io",
+  "organization": "deindrahtesel24.de",
+  "logoText": "Deindrahtesel24.de",
+  "title": "Fahrrad Shop",
+  "subline": "Der Online Shop f\u00fcr Fahrr\u00e4der & Zubeh\u00f6r",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7434855",
+    "1438704",
+    "9603812",
+    "2337863",
+    "2402717",
+    "7434855"
+  ],
+  "winnerProducts": [
+    "9604380",
+    "2337863",
+    "9601196"
+  ],
+  "featuredCategories": [
+    "Kinder-R\u00e4der",
+    "Trekking-R\u00e4der",
+    "Fahrrad-Beleuchtung",
+    "Lenkerzubeh\u00f6r & Klingeln",
+    "Lenkerzubeh\u00f6r & Klingeln",
+    "Reparatur & Ersatzteile"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Fahrr\u00e4der",
+    "featureText": "In unserem Shop finden Sie neben hochwertige Fahrr\u00e4dern bekannter Marken wie z.B. Fischer, Camax etc. auch umfangreiches Zubeh\u00f6r, das von Anbauteilen \u00fcber Reparaturteilen bis zu Ersatzteilen reicht. Unsere Produkte sind in entsprechenden Kategorien dargestellt. Klicken Sie sich einfach durch unseren Shop!",
+    "index": {
+      "title": "Fahrr\u00e4der - Markenfahrr\u00e4der zum Bestpreis",
+      "metaDescription": "Unser Fahrrad-Angebot reicht von City- \u00fcber Trekking- bis zu E-Bikes. Zudem bieten wir eine gro\u00dfe Auswahl an Ersatz- und Reparaturteilen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Dein Drahtesel 24!",
+            "text": "Herzlich willkommen bei Dein Drahtesel 24, Ihrem Online-Shop f\u00fcr Fahrr\u00e4der und Zubeh\u00f6r. Wir bieten Ihnen eine gro\u00dfe Auswahl an Fahrr\u00e4dern, von City-R\u00e4dern \u00fcber Trekking-R\u00e4der und E-Bikes bis hin zu Kinder-R\u00e4dern. Unser Sortiment umfasst auch eine Vielzahl von Fahrrad-Zubeh\u00f6r, wie Fahrradst\u00e4nder, Reparatur- und Ersatzteile, Fahrrad-Beleuchtung, Lenkerzubeh\u00f6r und Klingeln, Fahrradreifen und Fahrrads\u00e4ttel.Wir sind stolz darauf, Ihnen eine einfache und bequeme M\u00f6glichkeit zu bieten, alles zu finden, was Sie f\u00fcr Ihr Fahrrad ben\u00f6tigen. Unser Online-Shop ist benutzerfreundlich und bietet Ihnen eine schnelle und einfache Navigation durch unsere Kategorien. Wir haben sorgf\u00e4ltig ausgew\u00e4hlte Produkte, um sicherzustellen, dass Sie das beste Preis-Leistungs-Verh\u00e4ltnis erhalten.Wir verstehen, dass Ihr Fahrrad f\u00fcr Sie von gro\u00dfer Bedeutung ist, deshalb legen wir gro\u00dfen Wert auf Qualit\u00e4t und Zuverl\u00e4ssigkeit. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verf\u00fcgung, um Ihnen bei allen Fragen und Anliegen zu helfen.Schauen Sie sich in Ruhe um und entdecken Sie unsere gro\u00dfe Auswahl an Fahrr\u00e4dern und Zubeh\u00f6r. Wir sind sicher, dass Sie das finden werden, was Sie suchen. Vielen Dank f\u00fcr Ihren Besuch bei Dein Drahtesel 24. Wir freuen uns darauf, Ihnen zu helfen, Ihr Fahrrad-Erlebnis zu verbessern."
+          },
+          {
+            "title": "City-R\u00e4der",
+            "text": "Entdecken Sie die Vielfalt an hochwertigen <a href=\"/kategorie/city-raeder/\" title=\"City-R\u00e4der\">City-R\u00e4der</a>n bei deindrahtesel24.de. Unsere Auswahl bietet f\u00fcr jeden Bedarf das passende Fahrrad. Von klassisch bis modern, wir haben f\u00fcr jeden Geschmack das richtige Rad. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t und dem Komfort unserer City-R\u00e4der."
+          },
+          {
+            "title": "Trekking-R\u00e4der",
+            "text": "Erleben Sie das Abenteuer mit unseren <a href=\"/kategorie/trekking-raeder/\" title=\"Trekking-R\u00e4der\">Trekking-R\u00e4der</a>n bei deindrahtesel24.de. Unsere R\u00e4der sind perfekt f\u00fcr l\u00e4ngere Touren geeignet und bieten h\u00f6chsten Komfort auf jedem Terrain. Entdecken Sie die Vielfalt an Farben und Designs und finden Sie das perfekte Trekking-Rad f\u00fcr Ihre n\u00e4chste Tour."
+          },
+          {
+            "title": "E-Bikes",
+            "text": "Erleben Sie das unbeschwerte Radfahren mit unseren <a href=\"/kategorie/e-bikes/\" title=\"E-Bikes\">E-Bikes</a> bei deindrahtesel24.de. Unsere E-Bikes bieten Ihnen Unterst\u00fctzung beim Treten und erm\u00f6glichen Ihnen so, l\u00e4ngere Strecken ohne gro\u00dfe Anstrengung zur\u00fcckzulegen. Entdecken Sie die Vielfalt an Modellen und finden Sie das perfekte E-Bike f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Kinder-R\u00e4der",
+            "text": "Erleben Sie die Freude des Radfahrens mit den hochwertigen <a href=\"/kategorie/kinder-raeder/\" title=\"Kinder-R\u00e4der\">Kinder-R\u00e4der</a>n bei deindrahtesel24.de. Unsere Auswahl an Kinder-R\u00e4dern bietet f\u00fcr jedes Alter das richtige Rad. Von farbenfroh bis robust, wir haben f\u00fcr jeden Bedarf das passende Kinder-Rad. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t und dem Komfort unserer Kinder-R\u00e4der."
+          },
+          {
+            "title": "Fahrrad-Zubeh\u00f6r",
+            "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen <a href=\"/kategorie/fahrrad-zubehoer/\" title=\"Fahrrad-Zubeh\u00f6r\">Fahrrad-Zubeh\u00f6r</a> bei deindrahtesel24.de. Unsere Auswahl an Fahrrad-Zubeh\u00f6r bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben f\u00fcr jeden Geschmack das passende Zubeh\u00f6r. \u00dcberzeugen Sie sich selbst von der Vielfalt und Qualit\u00e4t unseres Fahrrad-Zubeh\u00f6rs."
+          },
+          {
+            "title": "Fahrradst\u00e4nder",
+            "text": "Sichern Sie Ihr Fahrrad mit den stabilen <a href=\"/kategorie/fahrradstaender/\" title=\"Fahrradst\u00e4nder\">Fahrradst\u00e4nder</a>n bei deindrahtesel24.de. Unsere Auswahl an Fahrradst\u00e4ndern bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis stilvoll, wir haben f\u00fcr jeden Geschmack den passenden Fahrradst\u00e4nder. \u00dcberzeugen Sie sich selbst von der Stabilit\u00e4t und Qualit\u00e4t unserer Fahrradst\u00e4nder."
+          },
+          {
+            "title": "Reparatur & Ersatzteile",
+            "text": "Halten Sie Ihr Fahrrad in Top-Zustand mit den hochwertigen Reparatur- und Ersatzteilen bei deindrahtesel24.de. Unsere Auswahl bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis professionell, wir haben f\u00fcr jeden Anspruch das passende Ersatzteil. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t und dem Komfort unserer Reparatur- und Ersatzteile."
+          },
+          {
+            "title": "Fahrrad-Beleuchtung",
+            "text": "Sichern Sie sich eine gute Sichtbarkeit im Stra\u00dfenverkehr mit der hochwertigen <a href=\"/kategorie/fahrrad-beleuchtung/\" title=\"Fahrrad-Beleuchtung\">Fahrrad-Beleuchtung</a> bei deindrahtesel24.de. Unsere Auswahl bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben f\u00fcr jeden Geschmack das passende Licht. \u00dcberzeugen Sie sich selbst von der Leistung und Qualit\u00e4t unserer Fahrrad-Beleuchtung."
+          },
+          {
+            "title": "Lenkerzubeh\u00f6r & Klingeln",
+            "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen Lenkerzubeh\u00f6r und Klingeln bei deindrahtesel24.de. Unsere Auswahl bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben f\u00fcr jeden Geschmack das passende Zubeh\u00f6r. \u00dcberzeugen Sie sich selbst von der Vielfalt und Qualit\u00e4t unseres Lenkerzubeh\u00f6rs und Klingeln."
+          },
+          {
+            "title": "Fahrradreifen",
+            "text": "Verleihen Sie Ihrem Fahrrad den richtigen Grip mit den hochwertigen <a href=\"/kategorie/fahrradreifen/\" title=\"Fahrradreifen\">Fahrradreifen</a> bei deindrahtesel24.de. Unsere Auswahl bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben f\u00fcr jeden Geschmack das passende Profil. \u00dcberzeugen Sie sich selbst von der Leistung und Qualit\u00e4t unserer Fahrradreifen."
+          },
+          {
+            "title": "Fahrrads\u00e4ttel",
+            "text": "Erleben Sie h\u00f6chsten Komfort auf Ihren Fahrradtouren mit den hochwertigen <a href=\"/kategorie/fahrradsaettel/\" title=\"Fahrrads\u00e4ttel\">Fahrrads\u00e4ttel</a>n bei deindrahtesel24.de. Unsere Auswahl bietet f\u00fcr jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben f\u00fcr jeden Geschmack das passende Modell. \u00dcberzeugen Sie sich selbst von der Bequemlichkeit und Qualit\u00e4t unserer Fahrrads\u00e4ttel."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Fahrrad Shop",
-        "defaultMetaDescription": "Fahrräder & Zubehör in $KATEGORIE - Finden Sie das passende Fahrrad oder Anbau- und Ersatzteil für Ihre individuellen Bedürfnisse! ",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Fahrrad Online Shop - schnelle Lieferung von Markenprodukten",
+      "metaDescription": "Eine riesige Auswahl an Fahrr\u00e4dern & Zubeh\u00f6r zum Bestpreis. Einfach online bestellen - per Mausklick zu Ihnen nach Hause.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
-        "defaultMetaDescription": "Fahrräder & Zubehör von $HERSTELLER - die beste Auswahl an Fahrrädern und Anbauteilen mit langlebiger Qualität für jeden Bedarf.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Fahrräder",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Fahrräder Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Fahrräder Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Fahrr\u00e4der etablierter Marken",
+      "metaDescription": "Unsere angebotenen Fahrr\u00e4der sind Markenprodukte. Dabei achten wir darauf, dass ausschlie\u00dflich hochwertige Anbauteile verbaut werden.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Fahrrad Shop",
+    "defaultMetaDescription": "Riesige Auswahl an Fahrr\u00e4dern wie $PRODUKT verschiedener Hersteller wie $HERSTELLER in mehreren Kategorien wie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Fahrrad Shop",
+    "defaultMetaDescription": "Fahrr\u00e4der & Zubeh\u00f6r in $KATEGORIE - Finden Sie das passende Fahrrad oder Anbau- und Ersatzteil f\u00fcr Ihre individuellen Bed\u00fcrfnisse! ",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Markenprodukte zum g\u00fcnstigen Preis",
+    "defaultMetaDescription": "Fahrr\u00e4der & Zubeh\u00f6r von $HERSTELLER - die beste Auswahl an Fahrr\u00e4dern und Anbauteilen mit langlebiger Qualit\u00e4t f\u00fcr jeden Bedarf.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Fahrr\u00e4der",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Fahrr\u00e4der Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Fahrr\u00e4der Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
