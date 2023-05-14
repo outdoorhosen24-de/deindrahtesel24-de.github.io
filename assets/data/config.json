@@ -1,244 +1,251 @@
 {
-  "configIsReady": true,
-  "domain": "deindrahtesel24.de",
-  "hostname": "https://www.deindrahtesel24.de/",
-  "email": "deindrahtesel24.de@surrealnetworks.io",
-  "organization": "deindrahtesel24.de",
-  "logoText": "Deindrahtesel24.de",
-  "title": "Fahrrad Shop",
-  "subline": "Der Online Shop für Fahrräder & Zubehör",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "7434855",
-    "1438704",
-    "9603812",
-    "2337863",
-    "2402717",
-    "7434855"
-  ],
-  "winnerProducts": [
-    "9604380",
-    "2337863",
-    "9601196"
-  ],
-  "featuredCategories": [
-    "Kinder-Räder",
-    "Trekking-Räder",
-    "Fahrrad-Beleuchtung",
-    "Lenkerzubehör & Klingeln",
-    "Lenkerzubehör & Klingeln",
-    "Reparatur & Ersatzteile"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Fahrräder",
-    "featureText": "In unserem Shop finden Sie neben hochwertige Fahrrädern bekannter Marken wie z.B. Fischer, Camax etc. auch umfangreiches Zubehör, das von Anbauteilen über Reparaturteilen bis zu Ersatzteilen reicht. Unsere Produkte sind in entsprechenden Kategorien dargestellt. Klicken Sie sich einfach durch unseren Shop!",
-    "index": {
-      "title": "Fahrräder - Markenfahrräder zum Bestpreis",
-      "metaDescription": "Unser Fahrrad-Angebot reicht von City- über Trekking- bis zu E-Bikes. Zudem bieten wir eine große Auswahl an Ersatz- und Reparaturteilen.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Dein Drahtesel 24!",
-            "text": "Herzlich willkommen bei Dein Drahtesel 24, Ihrem Online-Shop für Fahrräder und Zubehör. Wir bieten Ihnen eine große Auswahl an Fahrrädern, von City-Rädern über Trekking-Räder und E-Bikes bis hin zu Kinder-Rädern. Unser Sortiment umfasst auch eine Vielzahl von Fahrrad-Zubehör, wie Fahrradständer, Reparatur- und Ersatzteile, Fahrrad-Beleuchtung, Lenkerzubehör und Klingeln, Fahrradreifen und Fahrradsättel.Wir sind stolz darauf, Ihnen eine einfache und bequeme Möglichkeit zu bieten, alles zu finden, was Sie für Ihr Fahrrad benötigen. Unser Online-Shop ist benutzerfreundlich und bietet Ihnen eine schnelle und einfache Navigation durch unsere Kategorien. Wir haben sorgfältig ausgewählte Produkte, um sicherzustellen, dass Sie das beste Preis-Leistungs-Verhältnis erhalten.Wir verstehen, dass Ihr Fahrrad für Sie von großer Bedeutung ist, deshalb legen wir großen Wert auf Qualität und Zuverlässigkeit. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verfügung, um Ihnen bei allen Fragen und Anliegen zu helfen.Schauen Sie sich in Ruhe um und entdecken Sie unsere große Auswahl an Fahrrädern und Zubehör. Wir sind sicher, dass Sie das finden werden, was Sie suchen. Vielen Dank für Ihren Besuch bei Dein Drahtesel 24. Wir freuen uns darauf, Ihnen zu helfen, Ihr Fahrrad-Erlebnis zu verbessern."
-          },
-          {
-            "title": "City-Räder",
-            "text": "Entdecken Sie die Vielfalt an hochwertigen <a href=\"/kategorie/city-raeder/\" title=\"City-Räder\">City-Räder</a>n bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das passende Fahrrad. Von klassisch bis modern, wir haben für jeden Geschmack das richtige Rad. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer City-Räder."
-          },
-          {
-            "title": "Trekking-Räder",
-            "text": "Erleben Sie das Abenteuer mit unseren <a href=\"/kategorie/trekking-raeder/\" title=\"Trekking-Räder\">Trekking-Räder</a>n bei deindrahtesel24.de. Unsere Räder sind perfekt für längere Touren geeignet und bieten höchsten Komfort auf jedem Terrain. Entdecken Sie die Vielfalt an Farben und Designs und finden Sie das perfekte Trekking-Rad für Ihre nächste Tour."
-          },
-          {
-            "title": "E-Bikes",
-            "text": "Erleben Sie das unbeschwerte Radfahren mit unseren <a href=\"/kategorie/e-bikes/\" title=\"E-Bikes\">E-Bikes</a> bei deindrahtesel24.de. Unsere E-Bikes bieten Ihnen Unterstützung beim Treten und ermöglichen Ihnen so, längere Strecken ohne große Anstrengung zurückzulegen. Entdecken Sie die Vielfalt an Modellen und finden Sie das perfekte E-Bike für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Kinder-Räder",
-            "text": "Erleben Sie die Freude des Radfahrens mit den hochwertigen <a href=\"/kategorie/kinder-raeder/\" title=\"Kinder-Räder\">Kinder-Räder</a>n bei deindrahtesel24.de. Unsere Auswahl an Kinder-Rädern bietet für jedes Alter das richtige Rad. Von farbenfroh bis robust, wir haben für jeden Bedarf das passende Kinder-Rad. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer Kinder-Räder."
-          },
-          {
-            "title": "Fahrrad-Zubehör",
-            "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen <a href=\"/kategorie/fahrrad-zubehoer/\" title=\"Fahrrad-Zubehör\">Fahrrad-Zubehör</a> bei deindrahtesel24.de. Unsere Auswahl an Fahrrad-Zubehör bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Zubehör. Überzeugen Sie sich selbst von der Vielfalt und Qualität unseres Fahrrad-Zubehörs."
-          },
-          {
-            "title": "Fahrradständer",
-            "text": "Sichern Sie Ihr Fahrrad mit den stabilen <a href=\"/kategorie/fahrradstaender/\" title=\"Fahrradständer\">Fahrradständer</a>n bei deindrahtesel24.de. Unsere Auswahl an Fahrradständern bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stilvoll, wir haben für jeden Geschmack den passenden Fahrradständer. Überzeugen Sie sich selbst von der Stabilität und Qualität unserer Fahrradständer."
-          },
-          {
-            "title": "Reparatur & Ersatzteile",
-            "text": "Halten Sie Ihr Fahrrad in Top-Zustand mit den hochwertigen Reparatur- und Ersatzteilen bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis professionell, wir haben für jeden Anspruch das passende Ersatzteil. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer Reparatur- und Ersatzteile."
-          },
-          {
-            "title": "Fahrrad-Beleuchtung",
-            "text": "Sichern Sie sich eine gute Sichtbarkeit im Straßenverkehr mit der hochwertigen <a href=\"/kategorie/fahrrad-beleuchtung/\" title=\"Fahrrad-Beleuchtung\">Fahrrad-Beleuchtung</a> bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Licht. Überzeugen Sie sich selbst von der Leistung und Qualität unserer Fahrrad-Beleuchtung."
-          },
-          {
-            "title": "Lenkerzubehör & Klingeln",
-            "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen Lenkerzubehör und Klingeln bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Zubehör. Überzeugen Sie sich selbst von der Vielfalt und Qualität unseres Lenkerzubehörs und Klingeln."
-          },
-          {
-            "title": "Fahrradreifen",
-            "text": "Verleihen Sie Ihrem Fahrrad den richtigen Grip mit den hochwertigen <a href=\"/kategorie/fahrradreifen/\" title=\"Fahrradreifen\">Fahrradreifen</a> bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Profil. Überzeugen Sie sich selbst von der Leistung und Qualität unserer Fahrradreifen."
-          },
-          {
-            "title": "Fahrradsättel",
-            "text": "Erleben Sie höchsten Komfort auf Ihren Fahrradtouren mit den hochwertigen <a href=\"/kategorie/fahrradsaettel/\" title=\"Fahrradsättel\">Fahrradsättel</a>n bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Modell. Überzeugen Sie sich selbst von der Bequemlichkeit und Qualität unserer Fahrradsättel."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "deindrahtesel24.de",
+    "hostname": "https://www.deindrahtesel24.de/",
+    "email": "deindrahtesel24.de@surrealnetworks.io",
+    "organization": "deindrahtesel24.de",
+    "logoText": "Deindrahtesel24.de",
+    "title": "Fahrrad Shop",
+    "subline": "Der Online Shop für Fahrräder & Zubehör",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "7434855",
+        "1438704",
+        "9603812",
+        "2337863",
+        "2402717",
+        "7434855"
+    ],
+    "winnerProducts": [
+        "9604380",
+        "2337863",
+        "9601196"
+    ],
+    "featuredCategories": [
+        "Kinder-Räder",
+        "Trekking-Räder",
+        "Fahrrad-Beleuchtung",
+        "Lenkerzubehör & Klingeln",
+        "Lenkerzubehör & Klingeln",
+        "Reparatur & Ersatzteile"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Fahrräder",
+        "featureText": "In unserem Shop finden Sie neben hochwertige Fahrrädern bekannter Marken wie z.B. Fischer, Camax etc. auch umfangreiches Zubehör, das von Anbauteilen über Reparaturteilen bis zu Ersatzteilen reicht. Unsere Produkte sind in entsprechenden Kategorien dargestellt. Klicken Sie sich einfach durch unseren Shop!",
+        "index": {
+            "title": "Fahrräder - Markenfahrräder zum Bestpreis",
+            "metaDescription": "Unser Fahrrad-Angebot reicht von City- über Trekking- bis zu E-Bikes. Zudem bieten wir eine große Auswahl an Ersatz- und Reparaturteilen.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Dein Drahtesel 24!",
+                        "text": "Herzlich willkommen bei Dein Drahtesel 24, Ihrem Online-Shop für Fahrräder und Zubehör. Wir bieten Ihnen eine große Auswahl an Fahrrädern, von City-Rädern über Trekking-Räder und E-Bikes bis hin zu Kinder-Rädern. Unser Sortiment umfasst auch eine Vielzahl von Fahrrad-Zubehör, wie Fahrradständer, Reparatur- und Ersatzteile, Fahrrad-Beleuchtung, Lenkerzubehör und Klingeln, Fahrradreifen und Fahrradsättel.Wir sind stolz darauf, Ihnen eine einfache und bequeme Möglichkeit zu bieten, alles zu finden, was Sie für Ihr Fahrrad benötigen. Unser Online-Shop ist benutzerfreundlich und bietet Ihnen eine schnelle und einfache Navigation durch unsere Kategorien. Wir haben sorgfältig ausgewählte Produkte, um sicherzustellen, dass Sie das beste Preis-Leistungs-Verhältnis erhalten.Wir verstehen, dass Ihr Fahrrad für Sie von großer Bedeutung ist, deshalb legen wir großen Wert auf Qualität und Zuverlässigkeit. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verfügung, um Ihnen bei allen Fragen und Anliegen zu helfen.Schauen Sie sich in Ruhe um und entdecken Sie unsere große Auswahl an Fahrrädern und Zubehör. Wir sind sicher, dass Sie das finden werden, was Sie suchen. Vielen Dank für Ihren Besuch bei Dein Drahtesel 24. Wir freuen uns darauf, Ihnen zu helfen, Ihr Fahrrad-Erlebnis zu verbessern."
+                    },
+                    {
+                        "title": "City-Räder",
+                        "text": "Entdecken Sie die Vielfalt an hochwertigen <a href=\"/kategorie/city-raeder/\" title=\"City-Räder\">City-Räder</a>n bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das passende Fahrrad. Von klassisch bis modern, wir haben für jeden Geschmack das richtige Rad. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer City-Räder."
+                    },
+                    {
+                        "title": "Trekking-Räder",
+                        "text": "Erleben Sie das Abenteuer mit unseren <a href=\"/kategorie/trekking-raeder/\" title=\"Trekking-Räder\">Trekking-Räder</a>n bei deindrahtesel24.de. Unsere Räder sind perfekt für längere Touren geeignet und bieten höchsten Komfort auf jedem Terrain. Entdecken Sie die Vielfalt an Farben und Designs und finden Sie das perfekte Trekking-Rad für Ihre nächste Tour."
+                    },
+                    {
+                        "title": "E-Bikes",
+                        "text": "Erleben Sie das unbeschwerte Radfahren mit unseren <a href=\"/kategorie/e-bikes/\" title=\"E-Bikes\">E-Bikes</a> bei deindrahtesel24.de. Unsere E-Bikes bieten Ihnen Unterstützung beim Treten und ermöglichen Ihnen so, längere Strecken ohne große Anstrengung zurückzulegen. Entdecken Sie die Vielfalt an Modellen und finden Sie das perfekte E-Bike für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Kinder-Räder",
+                        "text": "Erleben Sie die Freude des Radfahrens mit den hochwertigen <a href=\"/kategorie/kinder-raeder/\" title=\"Kinder-Räder\">Kinder-Räder</a>n bei deindrahtesel24.de. Unsere Auswahl an Kinder-Rädern bietet für jedes Alter das richtige Rad. Von farbenfroh bis robust, wir haben für jeden Bedarf das passende Kinder-Rad. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer Kinder-Räder."
+                    },
+                    {
+                        "title": "Fahrrad-Zubehör",
+                        "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen <a href=\"/kategorie/fahrrad-zubehoer/\" title=\"Fahrrad-Zubehör\">Fahrrad-Zubehör</a> bei deindrahtesel24.de. Unsere Auswahl an Fahrrad-Zubehör bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Zubehör. Überzeugen Sie sich selbst von der Vielfalt und Qualität unseres Fahrrad-Zubehörs."
+                    },
+                    {
+                        "title": "Fahrradständer",
+                        "text": "Sichern Sie Ihr Fahrrad mit den stabilen <a href=\"/kategorie/fahrradstaender/\" title=\"Fahrradständer\">Fahrradständer</a>n bei deindrahtesel24.de. Unsere Auswahl an Fahrradständern bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stilvoll, wir haben für jeden Geschmack den passenden Fahrradständer. Überzeugen Sie sich selbst von der Stabilität und Qualität unserer Fahrradständer."
+                    },
+                    {
+                        "title": "Reparatur & Ersatzteile",
+                        "text": "Halten Sie Ihr Fahrrad in Top-Zustand mit den hochwertigen Reparatur- und Ersatzteilen bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis professionell, wir haben für jeden Anspruch das passende Ersatzteil. Überzeugen Sie sich selbst von der Qualität und dem Komfort unserer Reparatur- und Ersatzteile."
+                    },
+                    {
+                        "title": "Fahrrad-Beleuchtung",
+                        "text": "Sichern Sie sich eine gute Sichtbarkeit im Straßenverkehr mit der hochwertigen <a href=\"/kategorie/fahrrad-beleuchtung/\" title=\"Fahrrad-Beleuchtung\">Fahrrad-Beleuchtung</a> bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Licht. Überzeugen Sie sich selbst von der Leistung und Qualität unserer Fahrrad-Beleuchtung."
+                    },
+                    {
+                        "title": "Lenkerzubehör & Klingeln",
+                        "text": "Verleihen Sie Ihrem Fahrrad das gewisse Extra mit dem hochwertigen Lenkerzubehör und Klingeln bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Zubehör. Überzeugen Sie sich selbst von der Vielfalt und Qualität unseres Lenkerzubehörs und Klingeln."
+                    },
+                    {
+                        "title": "Fahrradreifen",
+                        "text": "Verleihen Sie Ihrem Fahrrad den richtigen Grip mit den hochwertigen <a href=\"/kategorie/fahrradreifen/\" title=\"Fahrradreifen\">Fahrradreifen</a> bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Profil. Überzeugen Sie sich selbst von der Leistung und Qualität unserer Fahrradreifen."
+                    },
+                    {
+                        "title": "Fahrradsättel",
+                        "text": "Erleben Sie höchsten Komfort auf Ihren Fahrradtouren mit den hochwertigen <a href=\"/kategorie/fahrradsaettel/\" title=\"Fahrradsättel\">Fahrradsättel</a>n bei deindrahtesel24.de. Unsere Auswahl bietet für jeden Bedarf das richtige Produkt. Von praktisch bis stylisch, wir haben für jeden Geschmack das passende Modell. Überzeugen Sie sich selbst von der Bequemlichkeit und Qualität unserer Fahrradsättel."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Fahrrad Online Shop - schnelle Lieferung von Markenprodukten",
+            "metaDescription": "Eine riesige Auswahl an Fahrrädern & Zubehör zum Bestpreis. Einfach online bestellen - per Mausklick zu Ihnen nach Hause.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Fahrräder etablierter Marken",
+            "metaDescription": "Unsere angebotenen Fahrräder sind Markenprodukte. Dabei achten wir darauf, dass ausschließlich hochwertige Anbauteile verbaut werden.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Fahrrad Online Shop - schnelle Lieferung von Markenprodukten",
-      "metaDescription": "Eine riesige Auswahl an Fahrrädern & Zubehör zum Bestpreis. Einfach online bestellen - per Mausklick zu Ihnen nach Hause.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Fahrräder etablierter Marken",
-      "metaDescription": "Unsere angebotenen Fahrräder sind Markenprodukte. Dabei achten wir darauf, dass ausschließlich hochwertige Anbauteile verbaut werden.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | Fahrrad Shop",
-    "defaultMetaDescription": "Riesige Auswahl an Fahrrädern wie $PRODUKT verschiedener Hersteller wie $HERSTELLER in mehreren Kategorien wie $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "9604380",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | Fahrrad Shop",
+        "defaultMetaDescription": "Riesige Auswahl an Fahrrädern wie $PRODUKT verschiedener Hersteller wie $HERSTELLER in mehreren Kategorien wie $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Prophete Kinder-Fahrrad Mädchen 24\" Kids-Bike 20.BTK.10 mit 3-Gang Nabenschaltung",
-              "text": "<p class=\"justify\">Das Prophete Kinder-Fahrrad Mädchen 24\" Kids-Bike 20.BTK.10 ist das ideale Fahrrad für junge Mädchen, die ihre ersten Abenteuer auf zwei Rädern erleben möchten. Dieses Fahrrad bietet großen Fahrspaß und ist perfekt für Freizeit, Sicherheitstraining oder Radfahrprüfungen geeignet. Die StVZO-konforme Ausstattung garantiert nicht nur Fahrfreude, sondern auch die nötige Sicherheit.</p><p class=\"justify\">Ausgestattet mit einer 3-Gang Nabenschaltung von Shimano ist das Fahrrad ideal für Erkundungstouren im Gelände, entspanntes Cruisen im Viertel oder den täglichen Schulweg. Die Kombination aus City Lenker und Ergogriffen, speziell für junge Radler konstruiert, ermöglicht mühelose und präzise Bedienung der Schaltung durch einen Drehgriffschalter am Lenker.</p><p class=\"justify\">Das Prophete Kinder-Fahrrad legt besonderen Wert auf Sicherheit. Es verfügt über eine LED-Beleuchtung inklusive Standlicht, die bei Dunkelheit für gute Sicht und besseres Gesehenwerden sorgt. Ein integrierter Sensor schaltet die Beleuchtung sogar automatisch ein. Die Reflexbereifung erhöht zusätzlich die Sichtbarkeit, sodass Ihr Kind auch seitlich gut erkennbar ist. Alu V-Bremsen und eine Rücktrittbremse sorgen für schnelles und sicheres Bremsen.</p><p class=\"justify\">Das Fahrrad wird bereits vormontiert geliefert, sodass nur noch wenige Handgriffe nötig sind, um es einsatzbereit zu machen. Die Montage ist einfach und schnell. Sollte das Fahrrad dennoch nicht gefallen, kann es problemlos innerhalb von 14 Tagen zurückgesendet werden – in diesem Fall ist die Rücksendung kostenlos.</p><p class=\"justify\">Der Prophete After-Sales-Service bietet zusätzliche Vorteile, wie 35 werkseigene Monteure für Wartungen und Reparaturen bei Ihnen zuhause, eine kompetente Service-Hotline und eine schnelle Abwicklung von Aufträgen innerhalb von 5-10 Werktagen inkl. Monteurbesuch. Prophete betreut Kunden in Deutschland, Österreich, der Schweiz, Belgien, Luxemburg, den Niederlanden und Dänemark.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2337863",
-        "seo": {
-          "texts": [
-            {
-              "title": "Prophete Mountainbike-Reifen Cross-Profil 26\" x 2,10 - Hochwertiger Fahrradreifen für optimalen Grip",
-              "text": "<p class=\"justify\">Der Prophete Mountainbike-Reifen Cross-Profil 26\\\" x 2,10 ist eine ausgezeichnete Wahl für alle, die einen hochwertigen und zuverlässigen Reifen für ihr Mountainbike suchen. Die Marke Prophete ist bekannt für ihre erstklassigen Fahrradprodukte und bietet mit diesem Modell einen Reifen, der speziell für den Einsatz im Gelände konzipiert wurde und aufgrund seines Cross-Profils einen optimalen Grip bietet.</p><p class=\"justify\">Der Reifen hat die Maße 26\\\" x 2,10 (66 x 5,3 cm) und ist somit ideal für Mountainbikes geeignet. Mit seinem besonderen Cross-Profil sorgt er für eine hervorragende Traktion auf unterschiedlichsten Untergründen, sei es im Wald, auf Schotterwegen oder anspruchsvollen Trails. Die Kombination aus der widerstandsfähigen Gummimischung und dem stabilen Profil gewährleistet eine lange Lebensdauer und punktet zudem durch einen geringen Rollwiderstand und optimalen Pannenschutz.</p><p class=\"justify\">Das Produkt hat bisher mehr als 400 Bewertungen erhalten und erreicht dabei durchschnittlich vier von fünf Sternen, was für die hohe Zufriedenheit der Kunden spricht. Der Prophete Mountainbike-Reifen Cross-Profil 26\\\" x 2,10 ist somit eine ausgezeichnete Wahl für alle, die auf der Suche nach einem leistungsstarken, langlebigen und zuverlässigen Reifen für ihr Mountainbike sind. Mit einem Preis von 10,99 Euro ist dieser Fahrradreifen zudem sehr erschwinglich, ohne dabei Abstriche in puncto Qualität oder Performance machen zu müssen.</p><p class=\"justify\">In der Kategorie Fahrradreifen gehört dieser Prophete Reifen zu den Top-Produkten, die sich sowohl für Hobbysportler als auch für ambitionierte Mountainbiker eignen. Entscheiden Sie sich für den Prophete Mountainbike-Reifen Cross-Profil 26\\\" x 2,10 und erleben Sie eine deutliche Verbesserung Ihrer Fahrt im Gelände, mehr Sicherheit und ein verbessertes Handling Ihres Mountainbikes.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9601196",
-        "seo": {
-          "texts": [
-            {
-              "title": "Prophete Alu-City-Fahrrad Damen 28\" Genießer 20.BSC.10 mit 3-Gang Nabenschaltung",
-              "text": "<p class=\"justify\">Das Prophete Alu-City-Fahrrad Damen 28\" Genießer 20.BSC.10 mit 3-Gang Nabenschaltung ist ein erschwingliches und zuverlässiges Fahrrad für den täglichen Gebrauch. Mit seiner Wave-Rahmenkonstruktion ist dieses Citybike ideal für Fahrten zur Arbeit, zum Einkaufen oder zu Freunden. Die solide Shimano 3-Gang Nabenschaltung sorgt für dynamisches Vorankommen und ist dabei äußerst wartungsarm.</p><p class=\"justify\">Dieses Damen-Fahrrad ist voll verkehrstauglich und sofort für den Straßenverkehr einsatzbereit. Die mechanische Felgenbremse von Promax sorgt für schnelle Bremswirkung und einen kurzen Bremsweg. Für gute Sicht und Sichtbarkeit in der Dunkelheit ist das Prophete Genießer mit einem hellen LED-Scheinwerfer und einem LED-Rücklicht ausgestattet. Dadurch kommen Sie sicher und entspannt an Ihr Ziel.</p><p class=\"justify\">Ihr Fahrrad wird bereits vormontiert geliefert und benötigt nur noch wenige Handgriffe, um einsatzbereit zu sein. Prophete legt großen Wert auf ein gutes Preis-Leistungs-Verhältnis und bietet einen besonderen After-Sales-Service, der unter anderem 35 werkseigene Monteure für Wartungen und Reparaturen, eine kompetente Service-Hotline und eine schnelle Auftragsabwicklung beinhaltet.</p><p class=\"justify\">Das Prophete Alu-City-Fahrrad Damen 28\" Genießer 20.BSC.10 mit 3-Gang Nabenschaltung verfügt über zahlreiche komfortable Ausstattungsmerkmale wie z. B. einen bequemen Unisex-Sattel, 28\" Kenda-Laufräder und einen starrer Vorbau. Der Heckgepäckträger aus Stahl bietet eine Zuladung von bis zu 25 kg und der Ursus Seitenständer sorgt für sicheren Stand. Die Pedale sind aus Kunststoff gefertigt und der elegante Farbton Schwarz / Schwarz matt rundet das Gesamtbild ab.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Fahrrad Shop",
-    "defaultMetaDescription": "Fahrräder & Zubehör in $KATEGORIE - Finden Sie das passende Fahrrad oder Anbau- und Ersatzteil für Ihre individuellen Bedürfnisse! ",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "9604380",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Prophete Kinder-Fahrrad Mädchen 24\" Kids-Bike 20.BTK.10 mit 3-Gang Nabenschaltung",
+                            "text": "<p class=\"justify\">Das Prophete Kinder-Fahrrad Mädchen 24\" Kids-Bike 20.BTK.10 ist das ideale Fahrrad für junge Mädchen, die ihre ersten Abenteuer auf zwei Rädern erleben möchten. Dieses Fahrrad bietet großen Fahrspaß und ist perfekt für Freizeit, Sicherheitstraining oder Radfahrprüfungen geeignet. Die StVZO-konforme Ausstattung garantiert nicht nur Fahrfreude, sondern auch die nötige Sicherheit.</p><p class=\"justify\">Ausgestattet mit einer 3-Gang Nabenschaltung von Shimano ist das Fahrrad ideal für Erkundungstouren im Gelände, entspanntes Cruisen im Viertel oder den täglichen Schulweg. Die Kombination aus City Lenker und Ergogriffen, speziell für junge Radler konstruiert, ermöglicht mühelose und präzise Bedienung der Schaltung durch einen Drehgriffschalter am Lenker.</p><p class=\"justify\">Das Prophete Kinder-Fahrrad legt besonderen Wert auf Sicherheit. Es verfügt über eine LED-Beleuchtung inklusive Standlicht, die bei Dunkelheit für gute Sicht und besseres Gesehenwerden sorgt. Ein integrierter Sensor schaltet die Beleuchtung sogar automatisch ein. Die Reflexbereifung erhöht zusätzlich die Sichtbarkeit, sodass Ihr Kind auch seitlich gut erkennbar ist. Alu V-Bremsen und eine Rücktrittbremse sorgen für schnelles und sicheres Bremsen.</p><p class=\"justify\">Das Fahrrad wird bereits vormontiert geliefert, sodass nur noch wenige Handgriffe nötig sind, um es einsatzbereit zu machen. Die Montage ist einfach und schnell. Sollte das Fahrrad dennoch nicht gefallen, kann es problemlos innerhalb von 14 Tagen zurückgesendet werden – in diesem Fall ist die Rücksendung kostenlos.</p><p class=\"justify\">Der Prophete After-Sales-Service bietet zusätzliche Vorteile, wie 35 werkseigene Monteure für Wartungen und Reparaturen bei Ihnen zuhause, eine kompetente Service-Hotline und eine schnelle Abwicklung von Aufträgen innerhalb von 5-10 Werktagen inkl. Monteurbesuch. Prophete betreut Kunden in Deutschland, Österreich, der Schweiz, Belgien, Luxemburg, den Niederlanden und Dänemark.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2337863",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Prophete Mountainbike-Reifen Cross-Profil 26\" x 2,10 - Hochwertiger Fahrradreifen für optimalen Grip",
+                            "text": "<p class=\"justify\">Der Prophete Mountainbike-Reifen Cross-Profil 26\\\" x 2,10 ist eine ausgezeichnete Wahl für alle, die einen hochwertigen und zuverlässigen Reifen für ihr Mountainbike suchen. Die Marke Prophete ist bekannt für ihre erstklassigen Fahrradprodukte und bietet mit diesem Modell einen Reifen, der speziell für den Einsatz im Gelände konzipiert wurde und aufgrund seines Cross-Profils einen optimalen Grip bietet.</p><p class=\"justify\">Der Reifen hat die Maße 26\\\" x 2,10 (66 x 5,3 cm) und ist somit ideal für Mountainbikes geeignet. Mit seinem besonderen Cross-Profil sorgt er für eine hervorragende Traktion auf unterschiedlichsten Untergründen, sei es im Wald, auf Schotterwegen oder anspruchsvollen Trails. Die Kombination aus der widerstandsfähigen Gummimischung und dem stabilen Profil gewährleistet eine lange Lebensdauer und punktet zudem durch einen geringen Rollwiderstand und optimalen Pannenschutz.</p><p class=\"justify\">Das Produkt hat bisher mehr als 400 Bewertungen erhalten und erreicht dabei durchschnittlich vier von fünf Sternen, was für die hohe Zufriedenheit der Kunden spricht. Der Prophete Mountainbike-Reifen Cross-Profil 26\\\" x 2,10 ist somit eine ausgezeichnete Wahl für alle, die auf der Suche nach einem leistungsstarken, langlebigen und zuverlässigen Reifen für ihr Mountainbike sind. Mit einem Preis von 10,99 Euro ist dieser Fahrradreifen zudem sehr erschwinglich, ohne dabei Abstriche in puncto Qualität oder Performance machen zu müssen.</p><p class=\"justify\">In der Kategorie Fahrradreifen gehört dieser Prophete Reifen zu den Top-Produkten, die sich sowohl für Hobbysportler als auch für ambitionierte Mountainbiker eignen. Entscheiden Sie sich für den Prophete Mountainbike-Reifen Cross-Profil 26\\\" x 2,10 und erleben Sie eine deutliche Verbesserung Ihrer Fahrt im Gelände, mehr Sicherheit und ein verbessertes Handling Ihres Mountainbikes.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9601196",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Prophete Alu-City-Fahrrad Damen 28\" Genießer 20.BSC.10 mit 3-Gang Nabenschaltung",
+                            "text": "<p class=\"justify\">Das Prophete Alu-City-Fahrrad Damen 28\" Genießer 20.BSC.10 mit 3-Gang Nabenschaltung ist ein erschwingliches und zuverlässiges Fahrrad für den täglichen Gebrauch. Mit seiner Wave-Rahmenkonstruktion ist dieses Citybike ideal für Fahrten zur Arbeit, zum Einkaufen oder zu Freunden. Die solide Shimano 3-Gang Nabenschaltung sorgt für dynamisches Vorankommen und ist dabei äußerst wartungsarm.</p><p class=\"justify\">Dieses Damen-Fahrrad ist voll verkehrstauglich und sofort für den Straßenverkehr einsatzbereit. Die mechanische Felgenbremse von Promax sorgt für schnelle Bremswirkung und einen kurzen Bremsweg. Für gute Sicht und Sichtbarkeit in der Dunkelheit ist das Prophete Genießer mit einem hellen LED-Scheinwerfer und einem LED-Rücklicht ausgestattet. Dadurch kommen Sie sicher und entspannt an Ihr Ziel.</p><p class=\"justify\">Ihr Fahrrad wird bereits vormontiert geliefert und benötigt nur noch wenige Handgriffe, um einsatzbereit zu sein. Prophete legt großen Wert auf ein gutes Preis-Leistungs-Verhältnis und bietet einen besonderen After-Sales-Service, der unter anderem 35 werkseigene Monteure für Wartungen und Reparaturen, eine kompetente Service-Hotline und eine schnelle Auftragsabwicklung beinhaltet.</p><p class=\"justify\">Das Prophete Alu-City-Fahrrad Damen 28\" Genießer 20.BSC.10 mit 3-Gang Nabenschaltung verfügt über zahlreiche komfortable Ausstattungsmerkmale wie z. B. einen bequemen Unisex-Sattel, 28\" Kenda-Laufräder und einen starrer Vorbau. Der Heckgepäckträger aus Stahl bietet eine Zuladung von bis zu 25 kg und der Ursus Seitenständer sorgt für sicheren Stand. Die Pedale sind aus Kunststoff gefertigt und der elegante Farbton Schwarz / Schwarz matt rundet das Gesamtbild ab.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Fahrrad Shop",
+        "defaultMetaDescription": "Fahrräder & Zubehör in $KATEGORIE - Finden Sie das passende Fahrrad oder Anbau- und Ersatzteil für Ihre individuellen Bedürfnisse! ",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
+        "defaultMetaDescription": "Fahrräder & Zubehör von $HERSTELLER - die beste Auswahl an Fahrrädern und Anbauteilen mit langlebiger Qualität für jeden Bedarf.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Fahrräder",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Fahrräder Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Fahrräder Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
-    "defaultMetaDescription": "Fahrräder & Zubehör von $HERSTELLER - die beste Auswahl an Fahrrädern und Anbauteilen mit langlebiger Qualität für jeden Bedarf.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Fahrräder",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Fahrräder Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Fahrräder Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
